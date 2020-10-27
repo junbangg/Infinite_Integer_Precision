@@ -10,7 +10,7 @@ Execution instructions for problem 2:
 or
 
 #1 After navigating to current directory => /prob2
-#2 Enter g++ calc.cpp ../prob1/inf_int.cpp
+#2 Enter g++ main.cpp ../prob1/inf_int.cpp
 #3 Enter ./a.out
 
 
